@@ -1,4 +1,4 @@
-//comment ejects for reproduce memory leaks ( ~ 700 queries will break down the server )
+//comment ejects for reproducing memory leaks ( ~ 700 queries will break down the server )
 
 export default function({ axios }) {
 
